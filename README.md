@@ -256,4 +256,4 @@ This repository serves as the official landing page for FFDShow. The software is
 **Get the most recent version of FFDShow today!**
 
 ---
-**Last updated:** 2026-09-26 12:56:21 UTC
+**Last updated:** 2026-09-26 17:03:00 UTC
